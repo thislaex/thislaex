@@ -1,8 +1,8 @@
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 
 ## İnternet ve Ağ Teknolojileri Öğrencisi 👨‍🎓, Full Stack Geliştirici 🚀, Editör ✍, Girişimci 👨‍💼!
-- 🔭 🔭 Kendi yazılım ekibimi oluşturuyorum.
-- 🌱 🌱 Sürekli öğreniyorum ve kendimi geliştiriyorum.😂
+- 🔭 Kendi yazılım ekibimi oluşturuyorum.
+- 🌱 Sürekli öğreniyorum ve kendimi geliştiriyorum.😂
 - 🏢 Gelecekte bir yazılım şirketi kurmayı planlıyorum.
 - 💻Yazılım alanında kendimi sürekli ileri taşıyorum.
 - 📱 I'm own the MellowTalk2 app and I'm a Web Developer. 🌐
