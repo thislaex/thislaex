@@ -1,17 +1,16 @@
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 
-## I'm a Student of Vocational Technology Hight School 👨‍🎓, Full Stack Developer 🚀, Writer ✍ Entrepreneur 👨‍🎓!
-- 🔭 I'm currently building my own software team.
-- 🌱 I’m currently learning 😂
-- 👯 I have a mobile application and I am developing myself in Flutter.
-- 🏢 I'm planning to start a software company in the future.
-- 💻I'm always improving myself in software.
+## İnternet ve Ağ Teknolojileri Öğrencisi 👨‍🎓, Full Stack Geliştirici 🚀, Editör ✍, Girişimci 👨‍💼!
+- 🔭 🔭 Kendi yazılım ekibimi oluşturuyorum.
+- 🌱 🌱 Sürekli öğreniyorum ve kendimi geliştiriyorum.😂
+- 🏢 Gelecekte bir yazılım şirketi kurmayı planlıyorum.
+- 💻Yazılım alanında kendimi sürekli ileri taşıyorum.
 - 📱 I'm own the MellowTalk2 app and I'm a Web Developer. 🌐
-- ⚡ Fun fact: I love to play video games 🎮, I like to watch movies/series 🎞️ and I love hanging out on social media. #️⃣
-## ⏲ What we are doing now:
-I manage my Insects team. 📃.
-I am improving myself to speak better English. 📚. 
-I am improving myself in server management. 🚀.
+- ⚡ Eğlenceli bir gerçek: Video oyunları oynamayı 🎮, film/dizi izlemeyi 🎮❤️ ve sosyal medyada vakit geçirmeyi seviyorum. #️⃣
+## ⏲ Şu anda neler yapıyorum:
+TuzNet projesini geliştiriyorum 📃.
+İngilizce konuşma becerilerimi geliştirmek için çalışıyorum. 📚. 
+Sunucu yönetimi konusunda kendimi geliştiriyorum. 🚀.
 
 <br />
 
