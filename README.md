@@ -5,7 +5,6 @@
 - 🌱 Sürekli öğreniyorum ve kendimi geliştiriyorum.😂
 - 🏢 Gelecekte bir yazılım şirketi kurmayı planlıyorum.
 - 💻Yazılım alanında kendimi sürekli ileri taşıyorum.
-- 📱 I'm own the MellowTalk2 app and I'm a Web Developer. 🌐
 - ⚡ Eğlenceli bir gerçek: Video oyunları oynamayı 🎮, film/dizi izlemeyi 🎮❤️ ve sosyal medyada vakit geçirmeyi seviyorum. #️⃣
 ## ⏲ Şu anda neler yapıyorum:
 TuzNet projesini geliştiriyorum 📃.
